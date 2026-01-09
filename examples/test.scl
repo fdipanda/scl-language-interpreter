@@ -1,0 +1,12 @@
+set x = 10
+set y = 2 * (x + 3)
+
+if y > 20 then
+    display "y is large"
+else
+    display "y is small"
+endif
+
+display y
+
+return y

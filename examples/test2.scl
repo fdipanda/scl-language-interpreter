@@ -1,0 +1,4 @@
+set x = 5
+set y = x * 3 + 2
+display y
+return y
